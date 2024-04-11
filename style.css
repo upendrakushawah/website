@@ -1268,7 +1268,9 @@ section.ready-vote-section {
         width: 100%;
         margin-bottom: 16px;
     }
-
+    .flex-set-voting-card {
+        margin: 0px 0px;
+    }
     .flex-set-candidate-information-content-images .images-right {
         width: 100%;
         max-width: 100%;
